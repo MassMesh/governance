@@ -1,4 +1,4 @@
-# Network Commons License (v1.0.4)
+# Network Commons License
 
 The Network Commons License is the framework that governs the network commons.
 
