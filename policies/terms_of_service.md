@@ -12,4 +12,4 @@ The Network Commons License (NCL,) which is in use at NYC Mesh, is a license for
 
 The NCL should be hosted in the root directory of this repository, and should be linked to in the footer of the site for easy access. When talking to interested participants about joining the network, the terms of service should be made clear before the installation date is chosen. Responses must be documented online, in a manner that is accessible to the members of the core team.
 
-The full text of the NCL is [here](../tos.md).
+The full text of the NCL is [here](../ncl.md).
