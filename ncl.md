@@ -2,7 +2,7 @@
 
 The Network Commons License is the framework that governs the network commons.
 
-## The License
+## The License (v1.0.4)
 
 The Network Commons License (NCL) describes the terms and conditions associated with the use of free and
 open networks, and so enables individuals, communities, companies, governments and other organizations to
