@@ -1,12 +1,10 @@
-# Network Commons License
-
-The Network Commons License is the framework that governs the network commons.
-
-## The License (v1.0.4)
+# Network Commons License (v1.0.4)
 
 The Network Commons License (NCL) describes the terms and conditions associated with the use of free and
 open networks, and so enables individuals, communities, companies, governments and other organizations to
-adopt or support the same.
+adopt or support the same. 
+
+Mass Mesh has adopted this license in order to safeguard the rights of participants on our network(s), set expectations about fair use of the network(s), and establish ground rules for ourselves and other stewards of the network.
 
 The NCL is rooted in the following four tenets:
 - Participants are free to use the network for any purpose that does not limit the freedom of others
@@ -16,7 +14,20 @@ to do the same.
 - You have the right to join the network, and the obligation to extend this set of rights to anyone according to these same terms.
 the same conditions.
 
-## Terms
+## About The Role of Mass Mesh
+Mass Mesh exists to do the following:
+- Give technical and organizational support to the neighborhood network(s).
+- Give legal standing to MassMesh.org and the neighborhood networks for any purpose necessary to allow the operation of the neighborhood network(s) such as, but not limited to the following:
+	- Receive donations and distribute funds
+	- Occupy public and private spaces
+	- Represent the network(s) publicly
+	- Make agreements and notifications on behalf of MassMesh.org and the neighborhood network(s) with public administrations or third parties
+	- Make interconnection agreements with other networks including other mesh networks, commercial ISPs, and IXPs
+- Defend and support the interests of the neighborhood network participants, the good use of the Network Commons License, and the name of MassMesh.org by internal conflict resolution, arbitration, or when necessary, legal actions in those bad faith cases where there is damage to MassMesh.org, the neighborhood network(s) or Mass Mesh participants.
+
+By accepting the Mass Mesh Network Commons License the participants accept the delegation of all these functions to MassMesh.org, but do not renounce their right to exercise them by themselves.
+
+## Terms of Use
 
 ### Participation
 - The free network honors the human right to communication, and aims for the maximum possible
@@ -81,16 +92,3 @@ never lost, regardless of where devices are placed.
 Attribution, Share-alike license, which stipulates that derivative works are allowed, but that they
 may not be used for commercial purposes, must give credit to the Network Commons License,
 and must be released under these same conditions.
-
-## About The Role of Mass Mesh
-Mass Mesh exists to do the following:
-- Give technical and organizational support to the neighborhood network(s).
-- Give legal standing to MassMesh.org and the neighborhood networks for any purpose necessary to allow the operation of the neighborhood network(s) such as, but not limited to the following:
-	- Receive donations and distribute funds
-	- Occupy public and private spaces
-	- Represent the network(s) publicly
-	- Make agreements and notifications on behalf of MassMesh.org and the neighborhood network(s) with public administrations or third parties
-	- Make interconnection agreements with other networks including other mesh networks, commercial ISPs, and IXPs
-- Defend and support the interests of the neighborhood network participants, the good use of the Network Commons License, and the name of MassMesh.org by internal conflict resolution, arbitration, or when necessary, legal actions in those bad faith cases where there is damage to MassMesh.org, the neighborhood network(s) or Mass Mesh participants.
-
-By accepting the Mass Mesh Network Commons License the participants accept the delegation of all these functions to MassMesh.org, but do not renounce their right to exercise them by themselves.
