@@ -34,8 +34,7 @@ explicitly expressed and accepted.
 - In order to maximize connectivity and network growth, network constituents are encouraged to
 allow other network participants to install devices in their facilities, but this permission is always
 discretionary and can be revoked at any time.
-- Commercial access to the network must extend and share the network.
-- Data from the network is not logged or stored.
+- Data from the network is not logged or stored, except where necessary to operate the network effectively or troubleshoot network problems.
 
 ### Provision of Services
 The contents and services of the network, including access to the Internet are offered on their own terms.
