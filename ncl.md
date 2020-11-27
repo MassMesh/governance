@@ -13,7 +13,7 @@ The NCL is rooted in the following four tenets:
 to do the same.
 - Participants are free to know how the network and its components function.
 - Participants are free to offer and accept services on the network on their own terms.
-- By joining or adding services to the free network, you agree to extend the network to others under
+- You have the right to join the network, and the obligation to extend this set of rights to anyone according to these same terms.
 the same conditions.
 
 ## Terms
