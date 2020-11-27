@@ -30,13 +30,10 @@ By accepting the Mass Mesh Network Commons License the participants accept the d
 ## Terms of Use
 
 ### Participation
-- The free network honors the human right to communication, and aims for the maximum possible
-benefit for its constituents. Disputes regarding the right and proper execution of this framework
-should be resolved through the consensus of network stakeholders according to these principles.
-- Network devices and infrastructure can be financed and capitalized in any manner that does not
-seek to profit off of other participants in the network.
 - The network as a whole does not have any owner or proprietor, regardless of any specific
 contribution to the network.
+- Network devices and infrastructure can be financed and capitalized in any manner that does not
+seek to profit off of other participants in the network.
 - Network participants agree to extend the network on the same terms and conditions that they
 receive it, allowing all data to transit their own portion of the network without manipulating that
 data for any reason other than network maintenance.
