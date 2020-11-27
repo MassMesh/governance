@@ -54,7 +54,7 @@ hosted services and is not liable for them.
 - Content creators or owners can license their creations with the license of their choice, with no
 restriction. Unless otherwise stated, services are considered gratis, and offered “as is”, and
 without any warranty.
-- The free network makes no guarantee regarding the availability of Internet access.
+- **Neither the neighborhood network(s) or Mass Mesh makes any guarantee regarding the availability of Internet access.**
 - Should it become necessary to shape network traffic in order to optimize network performance,
 real-time communications may be given priority over delay-tolerant forms. In the case that traffic is
 shaped or manipulated, such practices must be transparently disclosed, and the exact policies in
@@ -70,15 +70,16 @@ unsolicited communications, and malicious software.
 power necessary to achieve intended service levels.
 - Coordination and cooperation should be used, whenever possible, to avoid interference and
 minimize spectral pollution.
-Security and Liability
+
+### Security and Liability
 - Network participants are responsible for the security of their own systems.
 - Participants should assume that all information transiting the free network is visible to others, and
 encrypt their communications accordingly.
 - Private networks can be connected to the open network and use firewalls to regulate access and
 traffic between those networks. Those private networks are not under the terms and conditions of
 this License, and their owners are responsible for their own security.
-- The free network is not responsible for any damage caused to or by participants in the network.
-- The free network disclaims all liability for the behavior of its participants.
+- The neighborhood network(s) and Mass Mesh are not responsible for any damage caused to or by participants in the network.
+- The neighborhood network(s) and Mass Mesh disclaim all liability for the behavior of its participants.
 
 ## Conditions
 - Adoption of this License can be expressed by individuals or organizations and implies the
