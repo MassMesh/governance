@@ -1,6 +1,6 @@
 # Mass Mesh Governance
 
-This is where we can make membership changes and approve various policies/projects.
+Mass Mesh is a grassroots project focused on building community wireless networks in Massachusetts. To facilitate the growth of our project, set expectations about the way we operate, and keep us accountable to ourselves, we maintain our governance policies publicly in this Git repository. Here, you can find the rights and responsibilities of our [core team](members.md), as well as information about how to get involved.
 
 ## Core Team Privileges
 Everyone on the core team has certain privileges that other participants in Mass Mesh and the neighborhood networks do not. 
