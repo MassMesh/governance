@@ -11,8 +11,7 @@ The NCL is rooted in the following four tenets:
 to do the same.
 - Participants are free to know how the network and its components function.
 - Participants are free to offer and accept services on the network on their own terms.
-- You have the right to join the network, and the obligation to extend this set of rights to anyone according to these same terms.
-the same conditions.
+- You have the right to join the network, and the obligation to extend this set of rights to anyone according to the same conditions.
 
 ## About The Role of Mass Mesh
 Mass Mesh exists to do the following:
