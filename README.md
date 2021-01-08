@@ -5,16 +5,17 @@ Mass Mesh is a volunteer-led organization focused on building community mesh net
 To facilitate the growth of our project, set expectations about the way we operate, and keep us accountable to ourselves, we maintain our governance policies publicly in this Git repository. Here, you can find the rights and responsibilities of our [core team](members.md), as well as information about how to get involved.
 
 ## Core Team Privileges
-Everyone on the core team has certain privileges that other participants in Mass Mesh and the neighborhood networks do not. 
+Everyone on the core team has certain privileges that other participants in Mass Mesh and the neighborhood networks do not. Core team members may:
 - Initiate meetings on behalf of Mass Mesh
 - Make pull requests in this repository. All pull requests will be subject to review by the entire core team. This implies the ability to:
   - Invite new core team members
   - Draft new Mass Mesh policies
   - Draft changes to the Network Commons License
-- Core team members are also eligible to administer Mass Mesh's online assets, including:
-  - The wiki
-  - Massmesh.org email addresses and mailing lists
-  - Social media channels
+
+Core team members are also eligible to administer Mass Mesh's online assets, including:
+- The wiki
+- Massmesh.org email addresses and mailing lists
+- Social media channels
 
 ## Core Team Obligations
 All core team members are expected to participate actively in the maintenance of Mass Mesh -- the organization and the network. Although not everyone will contribute in the same way, or with the same frequency, please keep the following in mind before accepting a core team membership.
