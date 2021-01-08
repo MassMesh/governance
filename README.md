@@ -27,3 +27,10 @@ All core team members are expected to participate actively in the maintenance of
 
 ## Joining the Core Team
 - Membership in the core team is by invite, and invites are vetted by consensus
+
+## Leaving the Core Team
+Core team members may leave at any time -- participation is completely voluntary. Leaving the core team doesn't have to mean leaving Mass Mesh, either. In order to sustain the health of the group and avoid disruptions, though, we do ask that anyone leaving the core team do the following:
+- Give some notice so that others can try to make adjustments to our processes, etc.
+- Notify any external parties to whom you are the point of contact of where to get in touch with the group (if applicable)
+- Hand off any assets that you are managing
+- Return any shared equipment (if applicable)
