@@ -2,7 +2,7 @@
 
 Mass Mesh is a volunteer-led organization focused on building community mesh networks in Boston and the surrounding area. Using off-the-shelf hardware and open-source software, Mass Mesh builds home-grown Internet infrastructure. Its aim is to give communities the tools they need to communicate securely online on their own terms.
 
-To facilitate the growth of our project, set expectations about the way we operate, and keep us accountable to ourselves, we maintain our governance policies publicly in this Git repository. Here, you can find the rights and responsibilities of our [core team](members.md), as well as information about how to get involved.
+To facilitate the growth of our project, set expectations about the way we operate, and keep us accountable to ourselves, we maintain our governance policies publicly in this Github repository. Here, you can find the rights and responsibilities of our [core team](members.md), as well as information about how to get involved.
 
 ## Core Team Privileges
 Everyone on the core team has certain privileges that other participants in Mass Mesh and the neighborhood networks do not. Core team members may:
@@ -34,3 +34,9 @@ Core team members may leave at any time -- participation is completely voluntary
 - Notify any external parties to whom you are the point of contact of where to get in touch with the group (if applicable)
 - Hand off any assets that you are managing
 - Return any shared equipment (if applicable)
+
+## Disputes
+If you believe that anyone on the core team is not living up to their responsibilities, has abused their privileges, or is in violation of our community norms at any time, you may either contact another core team [member](members.md) directly, or submit an issue on this Github repository. Depending on the severity of any wrong-doing, the following sanctions may be employed:
+- Meeting to address the issue, and warning against further violations (1st violation/non-serious violations)
+- Suspension from the core team for up to 1 month (2nd violation/serious first-time violations)
+- Removal from the core team (3rd violation/very serious violations including theft, abuse, or misuse of shared funds)
