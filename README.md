@@ -15,10 +15,12 @@ Everyone on the core team has certain privileges that other participants in Mass
   - Social media channels
 
 ## Core Team Obligations
-- Should approve/reject policy proposals in a timely fashion
-- Participate in governance meetings when applicable/possible
-- May be asked to help manage access to the wiki
-- May be asked to help with maintenance of the network
+All core team members are expected to participate actively in the maintenance of Mass Mesh -- the organization and the network. Although not everyone will contribute in the same way, or with the same frequency, please keep the following in mind before accepting a core team membership.
+- Participate in governance meetings on a regular (at least quarterly) basis.
+- Participate in other meetups on a regular (at least monthly) basis.
+- Approve/reject pull requests in this repository in a timely fashion
+- May be asked to help manage access to the wiki and other online assets
+- May be asked to help with maintenance of the community network(s)
 
 ## Joining the Core Team
 - Membership in the core team is by invite, and invites are vetted by consensus
