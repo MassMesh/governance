@@ -7,6 +7,7 @@ To facilitate the growth of our project, set expectations about the way we opera
 ## Core Team Privileges
 Everyone on the core team has certain privileges that other participants in Mass Mesh and the neighborhood networks do not. Core team members may:
 - Initiate meetings on behalf of Mass Mesh
+- Approve expenses on our [Open Collective](https://opencollective.com/mass-mesh)
 - Make pull requests in this repository. All pull requests will be subject to review by the entire core team. This implies the ability to:
   - Invite new core team members
   - Draft new Mass Mesh policies
