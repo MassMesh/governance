@@ -27,7 +27,13 @@ All core team members are expected to participate actively in the maintenance of
 - May be asked to help with maintenance of the community network(s)
 
 ## Joining the Core Team
-- Membership in the core team is by invite, and invites are vetted by consensus
+Membership in the core team is by invite, and invites are vetted by consensus. If you are interested in joining the core team, please talk to one of the [existing members](members.md) in our [Matrix chat](https://riot.im/app/#/group/+massmesh:matrix.org). We'll be most likely to invite you in if you:
+
+- Have an active interest in growing our network in your neighborhood
+- Have contributed regularly to the project in the past
+- Have an active interest in expanding our capacity in some very involved way (i.e. growing our legal capacity, overhauling our online presence, maintaining social media channels on our behalf.)
+
+Generally, if the things you're doing or hope to do involve putting substantial amounts of your time or reputation into the project, you should ask about becoming a core team member. We're trying to build an organization that is volunteer-led, and an inclusive, healthy core team is an important part of that.
 
 ## Leaving the Core Team
 Core team members may leave at any time -- participation is completely voluntary. Leaving the core team doesn't have to mean leaving Mass Mesh, either. In order to sustain the health of the group and avoid disruptions, though, we do ask that anyone leaving the core team do the following:
