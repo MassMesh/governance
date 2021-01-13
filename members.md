@@ -8,6 +8,7 @@ Core team members may make pull requests to this repository. All pull requests m
 
 ---
 
-* @Stephen304
-* @JamesVorder
-* @Cure
+* [@Stephen304](https://github.com/stephen304/) Stephen Smith
+* [@JamesVorder](https://github.com/jamesvorder/) James Vorderbruggen
+* [@Cure](https://github.com/cure/) Ward Vandewege
+* Santos Carrasquillo
